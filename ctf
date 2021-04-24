@@ -1,0 +1,36 @@
+execme:
+先確認類型，並用ckmod讓執行檔可執行，即可得下述
+FLAG{Permission_denied?!What's_going_on????}
+
+meow: 
+先確認類型，得知為文字檔即可用cat，即可得下述
+///Give me fish
+I want fish !!!
+Meow~
+
+FLAG{Meow_meow_meow_>_<}
+
+連線到遠端伺服器，輸入密碼，用ls檢視後可進入各檔案
+Linux 101
+FLAG{SSSSSSSHHHHHHHHH_is_easy_right??I_can_control_it_everywhereeeeee}
+找到輸入密碼解碼
+1.BreakALLCTF{Sobkjgd14VuIFBUtgVts}
+
+2.BreakALLCTF{WucLSg4cxPNYuXFF5XxJ}
+
+cf3
+用上述方法再用16進位轉字串
+BreakALLCTF{GIUWO1rpMhJCJpACvVwr}
+
+cf4
+用上述方法再用64進位轉換
+BreakALLCTF{XvXeVX5Ae9FwnYmDV2jU} !!!
+
+Linux binary analysis - EasyCTF_hexedit
+確認檔案類型轉執行檔，轉字串再用easystf篩選
+easyctf{eb04fadf}
+
+隱寫術
+用word顯示隱藏文字
+BreakALLCTF{6TQLvMy32desEI4bSeGa}
+隱寫術101 - STEG(必) - 20 ptshttps://github.com/MiriamLin/ctf/new/main
